@@ -1,4 +1,4 @@
 # demo
-My first Git Project.
+My first Git Repository.
 <br>
 My name is Faria Murtaza.
